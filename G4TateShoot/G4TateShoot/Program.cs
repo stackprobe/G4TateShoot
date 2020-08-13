@@ -18,6 +18,6 @@ namespace Charlotte
 		}
 
 		public const string APP_IDENT = "{dab81ae0-6731-4c26-b8e8-27ffd23fd0c8}";
-		public const string APP_TITLE = "VioletDiamond";
+		public const string APP_TITLE = "G4TateShoot";
 	}
 }
